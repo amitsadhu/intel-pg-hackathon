@@ -1,0 +1,6 @@
+gradio
+langchain
+ipython
+ipywidgets
+openai
+tqdm
